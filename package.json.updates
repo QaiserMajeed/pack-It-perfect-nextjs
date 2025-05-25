@@ -1,0 +1,12 @@
+﻿Add these scripts to your package.json:
+
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "analyze": "set ANALYZE=true && next build",
+    "type-check": "tsc --noEmit"
+  }
+}

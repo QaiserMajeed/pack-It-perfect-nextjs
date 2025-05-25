@@ -1,0 +1,64 @@
+{
+  "common": {
+    "currency": "NZD $",
+    "country": "New Zealand",
+    "countryFull": "New Zealand",
+    "phone": "+44 7459 682266",
+    "freeShippingThreshold": "400",
+    "company": {
+      "name": "Pack it Perfect",
+      "address": "Coming Soon - New Zealand Operations"
+    }
+  },
+  "header": {
+    "announcement": "Free shipping on all New Zealand orders NZD $400+",
+    "phone": "Call: +44 7459 682266",
+    "phoneSubtext": "Call us for free!"
+  },
+  "hero": {
+    "title": "Your One-Stop Destination For Custom Boxes and Packaging Needs!",
+    "subtitle": "In The Dynamic New Zealand Market, We Stand Out With Our Extensive Collection Of Bespoke Cosmetics And Packaging.",
+    "features": {
+      "produced": "Shipped to New Zealand",
+      "delivery": "Delivery within 12 to 16 working days"
+    },
+    "cta": "Get A Free Quote",
+    "rating": "See what our clients are saying! With 4.5 Social Media Platforms Rating :"
+  },
+  "features": {
+    "noDieCharges": "No Die and Plate Charges",
+    "fastDelivery": "Delivery within 12-16 working days",
+    "lowMinimum": "Starting from 100 units",
+    "freeShipping": "Free Shipping all across New Zealand",
+    "freeDesign": "Free Designing Assistance"
+  },
+  "pricing": {
+    "from": "from",
+    "each": "each",
+    "minimum": "min.",
+    "quote": "Get Quote"
+  },
+  "shipping": {
+    "free": "Free",
+    "freeShippingText": "Free shipping across New Zealand",
+    "deliveryTime": "12-16 working days",
+    "coverage": "We deliver our custom packaging boxes to clients all over New Zealand."
+  },
+  "legal": {
+    "vatNotice": "All prices exclude GST",
+    "termsNotice": "Subject to New Zealand terms and conditions"
+  },
+  "contact": {
+    "title": "Contact Our Custom Packaging Specialists",
+    "description": "Get in touch with Pack it Perfect for all your custom packaging needs. Our team is ready to help with quotes, design assistance, and expert advice.",
+    "location": "Our Location",
+    "workingHours": "Working Hours",
+    "mondayFriday": "Monday to Friday: 9:00 AM - 6:00 PM NZST",
+    "saturday": "Saturday: 10:00 AM - 2:00 PM NZST"
+  },
+  "footer": {
+    "description": "Stay in the know on product releases, founder news, and all things Pack it Perfect.",
+    "newsletter": "Enter email here for updates",
+    "copyright": "© 2025 Pack it Perfect Custom Boxes. All rights reserved."
+  }
+}

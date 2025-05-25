@@ -1,0 +1,64 @@
+{
+  "common": {
+    "currency": "CAD $",
+    "country": "Canada",
+    "countryFull": "Canada",
+    "phone": "+44 7459 682266",
+    "freeShippingThreshold": "500",
+    "company": {
+      "name": "Pack it Perfect",
+      "address": "Coming Soon - Canadian Operations"
+    }
+  },
+  "header": {
+    "announcement": "Free shipping on all Canadian orders CAD $500+",
+    "phone": "Call: +44 7459 682266",
+    "phoneSubtext": "Call us for free!"
+  },
+  "hero": {
+    "title": "Your One-Stop Destination For Custom Boxes and Packaging Needs!",
+    "subtitle": "In The Dynamic Canadian Market, We Stand Out With Our Extensive Collection Of Bespoke Cosmetics And Packaging.",
+    "features": {
+      "produced": "Shipped to Canada",
+      "delivery": "Delivery within 10 to 14 working days"
+    },
+    "cta": "Get A Free Quote",
+    "rating": "See what our clients are saying! With 4.5 Social Media Platforms Rating :"
+  },
+  "features": {
+    "noDieCharges": "No Die and Plate Charges",
+    "fastDelivery": "Delivery within 10-14 working days",
+    "lowMinimum": "Starting from 100 units",
+    "freeShipping": "Free Shipping all across Canada",
+    "freeDesign": "Free Designing Assistance"
+  },
+  "pricing": {
+    "from": "from",
+    "each": "each",
+    "minimum": "min.",
+    "quote": "Get Quote"
+  },
+  "shipping": {
+    "free": "Free",
+    "freeShippingText": "Free shipping across Canada",
+    "deliveryTime": "10-14 working days",
+    "coverage": "We deliver our custom packaging boxes to clients all over Canada."
+  },
+  "legal": {
+    "vatNotice": "All prices exclude GST/HST",
+    "termsNotice": "Subject to Canadian terms and conditions"
+  },
+  "contact": {
+    "title": "Contact Our Custom Packaging Specialists",
+    "description": "Get in touch with Pack it Perfect for all your custom packaging needs. Our team is ready to help with quotes, design assistance, and expert advice.",
+    "location": "Our Location",
+    "workingHours": "Working Hours",
+    "mondayFriday": "Monday to Friday: 9:00 AM - 6:00 PM EST",
+    "saturday": "Saturday: 10:00 AM - 2:00 PM EST"
+  },
+  "footer": {
+    "description": "Stay in the know on product releases, founder news, and all things Pack it Perfect.",
+    "newsletter": "Enter email here for updates",
+    "copyright": "© 2025 Pack it Perfect Custom Boxes. All rights reserved."
+  }
+}

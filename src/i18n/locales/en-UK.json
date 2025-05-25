@@ -1,0 +1,85 @@
+{
+  "common": {
+    "currency": "£",
+    "country": "UK",
+    "countryFull": "United Kingdom",
+    "phone": "+44 07459 682266",
+    "freeShippingThreshold": "300",
+    "company": {
+      "name": "Pack it Perfect",
+      "address": "128 City Road, London, United Kingdom, EC1V 2NX"
+    }
+  },
+  "header": {
+    "announcement": "Free shipping on all UK orders £300+",
+    "phone": "Call: +44 07459 682266",
+    "phoneSubtext": "Call us for free!"
+  },
+  "hero": {
+    "title": "Your One-Stop Destination For Custom Boxes and Packaging Needs!",
+    "subtitle": "In The Dynamic UK Market, We Stand Out With Our Extensive Collection Of Bespoke Cosmetics And Packaging.",
+    "features": {
+      "produced": "Produced In United Kingdom",
+      "delivery": "Delivery within 6 to 10 working days"
+    },
+    "cta": "Get A Free Quote",
+    "rating": "See what our clients are saying! With 4.5 Social Media Platforms Rating :"
+  },
+  "features": {
+    "noDieCharges": "No Die and Plate Charges",
+    "fastDelivery": "Delivery within 7-10 working days",
+    "lowMinimum": "Starting from 100 units",
+    "freeShipping": "Free Shipping all across UK",
+    "freeDesign": "Free Designing Assistance"
+  },
+  "pricing": {
+    "from": "from",
+    "each": "each",
+    "minimum": "min.",
+    "quote": "Get Quote"
+  },
+  "shipping": {
+    "free": "Free",
+    "freeShippingText": "Free shipping across the UK",
+    "deliveryTime": "7-10 working days",
+    "coverage": "We deliver our custom packaging boxes to clients all over the UK."
+  },
+  "legal": {
+    "vatNotice": "All prices exclude VAT",
+    "termsNotice": "Subject to UK terms and conditions"
+  },
+  "contact": {
+    "title": "Contact Our Custom Packaging Specialists",
+    "description": "Get in touch with Pack it Perfect for all your custom packaging needs. Our team is ready to help with quotes, design assistance, and expert advice.",
+    "location": "Our Location",
+    "workingHours": "Working Hours",
+    "mondayFriday": "Monday to Friday: 9:00 AM - 6:00 PM",
+    "saturday": "Saturday: 10:00 AM - 2:00 PM"
+  },
+  "footer": {
+    "description": "Stay in the know on product releases, founder news, and all things Pack it Perfect.",
+    "newsletter": "Enter email here for updates",
+    "subscribeSuccess": "Thank you for subscribing to our newsletter!",
+    "subscribeError": "There was an error submitting the form. Please try again.",
+    "stayConnected": "Stay Connected",
+    "categories": "Categories",
+    "byStyle": "By Style",
+    "byMaterial": "By Material",
+    "popularProducts": "Popular Products",
+    "giftBoxes": "Gift Boxes",
+    "jewelryPackaging": "Jewelry Packaging",
+    "clothingBoxes": "Clothing Boxes",
+    "foodPackaging": "Food Packaging",
+    "medicalPackaging": "Medical Packaging",
+    "customBoxes": "Custom Made Boxes",
+    "cosmeticsPackaging": "Cosmetics Packaging",
+    "beveragePackaging": "Beverage Packaging",
+    "customerSupport": "Customer Support",
+    "faq": "Frequently Asked Questions",
+    "requestQuote": "Request a Quote",
+    "contactUs": "Contact Us",
+    "blog": "Packaging Blog",
+    "successStories": "Success Stories",
+    "copyright": "© 2025 Pack it Perfect Custom Boxes. All rights reserved."
+  }
+}
